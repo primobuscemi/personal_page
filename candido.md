@@ -1,6 +1,9 @@
+---
 layout: page
 title: "Candido"
 permalink: /personal_page/candido/
+---
+
 
 ## Candido - Leonardo Sciacia
 
