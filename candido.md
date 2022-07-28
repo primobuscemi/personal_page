@@ -1,6 +1,6 @@
 layout: page
 title: "Candido"
-permalink: /candido/
+permalink: https://github.com/primobuscemi/personal_page/edit/gh-pages/candido.md
 
 ## Candido - Leonardo Sciacia
 
