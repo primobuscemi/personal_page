@@ -1,3 +1,6 @@
+layout: page
+title: "Candido"
+permalink: /candido/
 
 ## Candido - Leonardo Sciacia
 
