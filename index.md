@@ -1,9 +1,8 @@
 ## Pagina personale di Primo Buscemi
 
-Medico specializzando in Igiene e Medicina Preventiva. 
-You can use the [Candido](./candido.html) to maintain and preview the content for your website in Markdown files.
+Medico specializzando in Igiene e Medicina Preventiva.  
+You can use the [prova link](./candido.html) 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
 
