@@ -23,7 +23,10 @@
 
         <p>{{ site.description | default: site.github.project_tagline }}</p>
 
-
+   <footer>
+        <p> Pagina personale di <a href="{https://www.linkedin.com/in/primo-buscemi-05a981195/?original_referer=https%3A%2F%2Fwww%2Egoogle%2Ecom%2F&originalSubdomain=it }">{ Primo Buscemi}</a></p>
+      </footer>
+        
         {% if site.show_downloads %}
         <ul class="downloads">
           <li><a href="{{ site.github.zip_url }}">Download <strong>ZIP File</strong></a></li>
@@ -36,9 +39,7 @@
 
       {{ content }}
         
-     <footer>
-        <p> Pagina personale di <a href="{{ https://www.linkedin.com/in/primo-buscemi-05a981195/?original_referer=https%3A%2F%2Fwww%2Egoogle%2Ecom%2F&originalSubdomain=it }}">{{ Primo Buscemi}}</a></p>
-      </footer>
+  
     </div>
     <script src="{{ "/assets/js/scale.fix.js" | relative_url }}"></script>
   </body>
