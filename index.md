@@ -1,6 +1,10 @@
-## Pagina personale di Primo Buscemi
+# Pagina personale di Primo Buscemi
 
-Medico specializzando in Igiene e Medicina Preventiva.  
+Medico specializzando in Igiene e Medicina Preventiva. Firenze.
+
+## Pubblicazioni
+
+
 You can use the [prova link](./candido.html) 
 
 
