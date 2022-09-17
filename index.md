@@ -4,13 +4,13 @@ Medico specializzando in Igiene e Medicina Preventiva. Firenze.
 
 ## Pubblicazioni
 
-[Elenco delle pubblicazioni scientifiche](./pubblicazioni_scientifiche.html) 
+[Elenco delle pubblicazioni scientifiche](./pubblicazioni_scientifiche.md) 
 
-[Altre pubblicazioni](./altre_pubblicazioni.html) 
+[Altre pubblicazioni](./altre_pubblicazioni.md) 
 
 ## Contributi a Saluteinternazionale.info
 
-[Articoli pubblicati su Saluteinternazionale.info](./articoli_saluteinternazionale.html) 
+[Articoli pubblicati su Saluteinternazionale.info](./articoli_saluteinternazionale.md) 
 
 
 
