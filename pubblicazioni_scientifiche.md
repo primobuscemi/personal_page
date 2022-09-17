@@ -10,6 +10,8 @@
 
 - Lastrucci, V.; Puglia, M.; Pacifici, M.; Buscemi, P.; Sica, M.; Alderotti, G.; Belli, G.; Berti, E.; Rusconi, F.; Voller, F. Delayed Start of Routine Vaccination in Preterm and Small-for-Gestational-Age Infants: An Area-Based Cohort Study from the Tuscany Region, Italy. Vaccines 2022, 10, 1414. https://doi.org/10.3390/vaccines10091414
 
+### 9° Congresso nazionale SIMET, Firenze, 7-8 aprile 2022
+
 - Percezione della chemioprofilassi antimalarica stagionale e del suo arresto tra le madri e gli operatori sanitari di due regioni del Senegal. Carlotta Carboni, Primo Buscemi, Vieri Lastrucci, Amadou Yeri Camara, Maria José Caldés Pinilla
 
 
@@ -23,7 +25,7 @@
 - The indirect impact of COVID-19 pandemic on the utilization of the emergency medical services. V. Lastrucci, F. Collini, +6 authors G. Bonaccorsi. Published 1 October 2021. Medicine, Political Science. The European Journal of Public Health
 
 
-### 54° Congresso Nazionale SItI
+### 54° Congresso Nazionale SItI, Lecce 3-6 novembre 2021
 
 - Abstract 72 - L’IMPATTO DELLA PANDEMIA COVID-19 SULLA SALUTE DEGLI STUDENTI DELL’ATENEO FIORENTINO: IL RUOLO DEL SENSE OF COHERENCE E DELLA DIGITAL HEALTH LITERACY Buscemi P. , Scarpelli R. , Vettori V., Lastrucci V., Ciardi G., Cavallo G. , Moscadelli A., Paoli S., Lorini C., Bonaccorsi G.
 
