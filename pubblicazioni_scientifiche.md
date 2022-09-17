@@ -20,6 +20,8 @@
 
 - Rivasi G, Bulgaresi M, Mossello E, Buscemi P, Lorini C, Balzi D, Barucci R, Del Lungo I, Gangemi S, Giardini S, Piga C, Barghini E, Boni S, Bulli G, Carrai P, Crociani A, Faraone A, Lo Forte A, Martella L, Pupo S, Fortini G, Marozzi I, Bandini G, Cosma C, Stacchini L, Vaccaro G, Baggiani L, Landini G, Bonaccorsi G, Ungar A, Benvenuti E. Course and Lethality of SARS-CoV-2 Epidemic in Nursing Homes after Vaccination in Florence, Italy. Vaccines (Basel). 2021 Oct 13;9(10):1174. doi: 10.3390/vaccines9101174. PMID: 34696282; PMCID: PMC8537408.
 
+- The indirect impact of COVID-19 pandemic on the utilization of the emergency medical services. V. Lastrucci, F. Collini, +6 authors G. Bonaccorsi. Published 1 October 2021. Medicine, Political Science. The European Journal of Public Health
+
 
 ### 54° Congresso Nazionale SItI
 
