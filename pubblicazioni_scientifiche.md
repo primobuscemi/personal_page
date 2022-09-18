@@ -12,7 +12,7 @@
 
 ### 9° Congresso nazionale SIMET, Firenze, 7-8 aprile 2022
 
-- Percezione della chemioprofilassi antimalarica stagionale e del suo arresto tra le madri e gli operatori sanitari di due regioni del Senegal. Carlotta Carboni, Primo Buscemi, Vieri Lastrucci, Amadou Yeri Camara, Maria José Caldés Pinilla
+- Percezione della chemioprofilassi antimalarica stagionale e del suo arresto tra le madri e gli operatori sanitari di due regioni del Senegal. Carlotta Carboni, Primo Buscemi, Vieri Lastrucci, Amadou Yeri Camara, Maria José Caldés Pinilla. https://www.centrosaluteglobale.eu/wp-content/uploads/2022/05/QUADERNO_6-firenze-2022_completo_web.pdf
 
 
 
@@ -27,15 +27,15 @@
 
 ### 54° Congresso Nazionale SItI, Lecce 3-6 novembre 2021
 
-- Abstract 72 - L’IMPATTO DELLA PANDEMIA COVID-19 SULLA SALUTE DEGLI STUDENTI DELL’ATENEO FIORENTINO: IL RUOLO DEL SENSE OF COHERENCE E DELLA DIGITAL HEALTH LITERACY Buscemi P. , Scarpelli R. , Vettori V., Lastrucci V., Ciardi G., Cavallo G. , Moscadelli A., Paoli S., Lorini C., Bonaccorsi G.
+- Abstract 72 - L’IMPATTO DELLA PANDEMIA COVID-19 SULLA SALUTE DEGLI STUDENTI DELL’ATENEO FIORENTINO: IL RUOLO DEL SENSE OF COHERENCE E DELLA DIGITAL HEALTH LITERACY Buscemi P. , Scarpelli R. , Vettori V., Lastrucci V., Ciardi G., Cavallo G. , Moscadelli A., Paoli S., Lorini C., Bonaccorsi G. http://www.igienistionline.it/docs/2022/54atti.pdf
 
-- Abstract 75 - I PREDITTORI DEL SENSE OF COHERENCE TRA GLI STUDENTI UNIVERSITARI DURANTE LA PANDEMIA DA COVID-19. Cosma C. , Buscemi P., Moscadelli A., Paoli S., Vettori V., Lastrucci V., Lorini C., Bonaccorsi G.
+- Abstract 75 - I PREDITTORI DEL SENSE OF COHERENCE TRA GLI STUDENTI UNIVERSITARI DURANTE LA PANDEMIA DA COVID-19. Cosma C. , Buscemi P., Moscadelli A., Paoli S., Vettori V., Lastrucci V., Lorini C., Bonaccorsi G. http://www.igienistionline.it/docs/2022/54atti.pdf
 
-- Abstract 99 - LA DIGITAL HEALTH LITERACY DEGLI STUDENTI UNIVERSITARI E LA RICERCA DI INFORMAZIONI SULLA PANDEMIA COVID-19 Ciardi G. , Buscemi P. , Vettori V., Scarpelli R., Lastrucci V., Moscadelli A. , Paoli S. , Lorini C. , Bonaccorsi G.
+- Abstract 99 - LA DIGITAL HEALTH LITERACY DEGLI STUDENTI UNIVERSITARI E LA RICERCA DI INFORMAZIONI SULLA PANDEMIA COVID-19 Ciardi G. , Buscemi P. , Vettori V., Scarpelli R., Lastrucci V., Moscadelli A. , Paoli S. , Lorini C. , Bonaccorsi G. http://www.igienistionline.it/docs/2022/54atti.pdf
 
-- Abstract 129 - L’ATTIVITÀ DI UN HOSPITAL-AT-NURSING HOME MOBILE MEDICAL TEAM (GIROT) NELLE RSA FIORENTINE Vaccaro G. , Buscemi P., Cosma C. , Stacchini L., Rivasi G. , Bulgaresi M., Benvenuti E., Mossello E. , Lorini C. , Bonaccorsi G.
+- Abstract 129 - L’ATTIVITÀ DI UN HOSPITAL-AT-NURSING HOME MOBILE MEDICAL TEAM (GIROT) NELLE RSA FIORENTINE Vaccaro G. , Buscemi P., Cosma C. , Stacchini L., Rivasi G. , Bulgaresi M., Benvenuti E., Mossello E. , Lorini C. , Bonaccorsi G. http://www.igienistionline.it/docs/2022/54atti.pdf
 
-- Abstract 349 - L’IMPATTO DELLA PANDEMIA DA COVID-19 SULLE MODALITÀ DI ACCESSO ALLE CURE E SULLA PRESA IN CARICO DELLA POPOLAZIONE NON ISCRIVIBILE AL SISTEMA SANITARIO NAZIONALE. Milani C. , Casigliani V. , Turatto F. , Mazzalai E. , Scardina G. , Forghieri P. , Mazzilli S., Mammana L., Sgorbissa B. , Mazziotta F. , Traglia F., Zanutto G., Marconi D., Mondera F. , Ferrari C., Bellini A. , Zannoner A., Velpini B., Buscemi P. , Sessa G., De Marchi C. , Gatta A., Siena L. , Carlone L., Anastasia A. , Caminada S., Manai S., Pireddu R., Rosca V., Miceli R.S., Boscolo Cegion R., Prontu P. , Montesarchio L., Iamarino J.A. , Giacchetta I., Miraglia Del Giudice G. , Pasquetti E. , Alba D. , Massidda C., Battaglia C.
+- Abstract 349 - L’IMPATTO DELLA PANDEMIA DA COVID-19 SULLE MODALITÀ DI ACCESSO ALLE CURE E SULLA PRESA IN CARICO DELLA POPOLAZIONE NON ISCRIVIBILE AL SISTEMA SANITARIO NAZIONALE. Milani C. , Casigliani V. , Turatto F. , Mazzalai E. , Scardina G. , Forghieri P. , Mazzilli S., Mammana L., Sgorbissa B. , Mazziotta F. , Traglia F., Zanutto G., Marconi D., Mondera F. , Ferrari C., Bellini A. , Zannoner A., Velpini B., Buscemi P. , Sessa G., De Marchi C. , Gatta A., Siena L. , Carlone L., Anastasia A. , Caminada S., Manai S., Pireddu R., Rosca V., Miceli R.S., Boscolo Cegion R., Prontu P. , Montesarchio L., Iamarino J.A. , Giacchetta I., Miraglia Del Giudice G. , Pasquetti E. , Alba D. , Massidda C., Battaglia C. http://www.igienistionline.it/docs/2022/54atti.pdf
 
 
 
