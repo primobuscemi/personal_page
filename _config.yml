@@ -1,4 +1,4 @@
-title: home
+title: Primo Buscemi
 theme: jekyll-theme-minimal
 logo: hopper.jpg
 show_downloads: false
@@ -9,3 +9,5 @@ twitter:
 site.description: "La mia pagina personale"
 site.logo: "https://primobuscemi.github.io/personal_page/hopper.jpg"
 site.title: "Pagina personale di Primo Buscemi"
+plugins:
+  - jekyll-seo-tag
