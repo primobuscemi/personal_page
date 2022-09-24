@@ -1,45 +1,218 @@
-# Pubblicazioni scientifiche
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN"
+  "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
 
-## 2022
+  <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
 
-- Delayed Start of Routine Vaccination in Preterm and Small-for-Gestational-Age Infants: An Area-Based Cohort Study from the Tuscany Region, Italy. Vaccines 2022, 10, 1414. Lastrucci, V.; Puglia, M.; Pacifici, M.; Buscemi, P.; Sica, M.; Alderotti, G.; Belli, G.; Berti, E.; Rusconi, F.; Voller, F. [https://doi.org/10.3390/vaccines10091414](https://doi.org/10.3390/vaccines10091414)
-
-- The indirect impact of COVID-19 pandemic on the utilization of the emergency medical services during the first pandemic wave: A system-wide study of Tuscany Region, Italy. PLoS One. 2022 Jul 1;17(7):e0264806. Lastrucci V, Collini F, Forni S, D'Arienzo S, Di Fabrizio V, Buscemi P, Lorini C, Gemmi F, Bonaccorsi G. doi: [https://doi.org/10.1371/journal.pone.0264806](https://doi.org/10.1371/journal.pone.0264806). PMID: 35776703; PMCID: PMC9249192.
-
-- Reasons for the Intention to Refuse COVID-19 Vaccination and Their Association with Preferred Sources of Information in a Nationwide, Population-Based Sample in Italy, before COVID-19 Vaccines Roll Out. Vaccines (Basel). 2022 Jun 8;10(6):913. Del Riccio M, Bechini A, Buscemi P, Bonanni P, On Behalf Of The Working Group Dhs, Boccalini S. doi: [https://doi.org/10.3390/vaccines10060913](https://doi.org/10.3390/vaccines10060913). PMID: 35746521; PMCID: PMC9229641.
-
-- Long-term effects of SARS-CoV-2 vaccination in the nursing home setting. J Am Geriatr Soc. 2022 May;70(5):1336-1341. Rivasi G, Bulgaresi M, Bandinelli C, Balzi D, Tarantini F, Tognelli S, Lorini C, Buscemi P, Baggiani L, Landini G, Ungar A, Bonaccorsi G, Mossello E, Benvenuti E. doi: [https://doi.org/10.1111/jgs.17773](https://doi.org/10.1111/jgs.17773). Epub 2022 Apr 4. PMID: 35347706; PMCID: PMC9115053.
-
-### 9° Congresso nazionale SIMET, Firenze, 7-8 aprile 2022
-
-- Percezione della chemioprofilassi antimalarica stagionale e del suo arresto tra le madri e gli operatori sanitari di due regioni del Senegal. Carlotta Carboni, Primo Buscemi, Vieri Lastrucci, Amadou Yeri Camara, Maria José Caldés Pinilla. [https://www.centrosaluteglobale.eu/wp-content/uploads/2022/05/QUADERNO_6-firenze-2022_completo_web.pdf](https://www.centrosaluteglobale.eu/wp-content/uploads/2022/05/QUADERNO_6-firenze-2022_completo_web.pdf)
-
-### 46° Congresso Annuale Associazione Italiana di Epidemiologia
-
-- Inizio ritardato della vaccinazione esavalente nei neonati pretermine: uno studio di coorte retrospettivo della regione Toscana. Monia Puglia, Martina Pacifici, Franca Rusconi, Vieri Lastrucci, Primo Buscemi, Elettra Berti, Gilda Belli, Michela Sica, Fabio Voller. [https://www.epidemiologia.it/libro-degli-abstract-convegno-xlvi-aie-2022/](https://www.epidemiologia.it/libro-degli-abstract-convegno-xlvi-aie-2022/)
-
+	  <head>
+		  <!-- <meta name="generator" content="jemdoc, see http://jemdoc.jaboc.net/" /> -->
+		  <meta name="KEYWORDS" content="primo buscemi firenze igiene sanità pubblica" />
+		  <meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+      <meta name="twitter:card" content="summary" />
+		  <meta name="twitter:site" content="https://primobuscemi.github.io/personal_page/" />
+                  <meta name="twitter:creator" content="primobuscemi" />
+                  <meta property="og:url" content="https://primobuscemi.github.io/personal_page/" />
+ 		  <meta property="og:title" content="Pagina personale di Primo Buscemi" />
+		  <meta property="og:description" content=" …ogni uomo, ognuno di noi, per essere libero, per essere fedele alla propria dignità, deve essere sempre un eretico. (Leonardo Sciascia)" />
+		  <link rel="stylesheet" href="main.css" type="text/css" />
+		  <title>Pubblicazioni scientifiche</title>
+	  </head>
 
 
-## 2021
+	  <body>
+		  <table summary="Table for page layout." id="tlayout">
+			  <tr valign="top">
+				  <td id="layout-menu">
 
-- Course and Lethality of SARS-CoV-2 Epidemic in Nursing Homes after Vaccination in Florence, Italy. Vaccines (Basel). 2021 Oct 13;9(10):1174. Rivasi G, Bulgaresi M, Mossello E, Buscemi P, Lorini C, Balzi D, Barucci R, Del Lungo I, Gangemi S, Giardini S, Piga C, Barghini E, Boni S, Bulli G, Carrai P, Crociani A, Faraone A, Lo Forte A, Martella L, Pupo S, Fortini G, Marozzi I, Bandini G, Cosma C, Stacchini L, Vaccaro G, Baggiani L, Landini G, Bonaccorsi G, Ungar A, Benvenuti E.  doi: [https://doi.org/10.3390/vaccines9101174](https://doi.org/10.3390/vaccines9101174) PMID: 34696282; PMCID: PMC8537408.
+					  <div class="menu-category">Primo Buscemi</div>
+					  <div class="menu-item"><a href="/" title="Home">Home</a></div>
+					  <div class="menu-item"><a href="/pubblicazioni/" title="Pubblicazioni">Pubblicazioni</a></div>
+					  <div class="menu-item"><a href="/saluteinternazionale/" title="Contributi a Saluteinternazionale">Contributi a Saluteinternazionale</a></div>
+					  <div class="menu-item"><a href="/altrepubblicazioni/" title="Altre pubblicazioni">Altre pubblicazioni</a></div>
+					  <div class="menu-item"><a href="/bio/" title="Bio">Bio</a></div>
 
-- Caring for nursing home residents with COVID-19: a "hospital-at-nursing home" intermediate care intervention. Aging Clin Exp Res. 2021 Oct;33(10):2917-2924. Benvenuti E, Rivasi G, Bulgaresi M, Barucci R, Lorini C, Balzi D, Faraone A, Fortini G, Vaccaro G, Del Lungo I, Gangemi S, Giardini S, Piga C, Barghini E, Boni S, Bulli G, Carrai P, Crociani A, Lo Forte A, Martella L, Pupo S, Marozzi I, Bandini G, Buscemi P, Cosma C, Stacchini L, Baggiani L, Ungar A, Mossello E, Bonaccorsi G, Landini G. doi: [https://doi.org/10.1007/s40520-021-01959-z](https://doi.org/10.1007/s40520-021-01959-z) Epub 2021 Aug 20. PMID: 34417733; PMCID: PMC8378521.
+				  </td>
 
+				  <td id="layout-content">
 
-### 54° Congresso Nazionale SItI, Lecce 3-6 novembre 2021
-
-- Abstract 72 - L’IMPATTO DELLA PANDEMIA COVID-19 SULLA SALUTE DEGLI STUDENTI DELL’ATENEO FIORENTINO: IL RUOLO DEL SENSE OF COHERENCE E DELLA DIGITAL HEALTH LITERACY Buscemi P. , Scarpelli R. , Vettori V., Lastrucci V., Ciardi G., Cavallo G. , Moscadelli A., Paoli S., Lorini C., Bonaccorsi G. [http://www.igienistionline.it/docs/2022/54atti.pdf](http://www.igienistionline.it/docs/2022/54atti.pdf)
-
-- Abstract 75 - I PREDITTORI DEL SENSE OF COHERENCE TRA GLI STUDENTI UNIVERSITARI DURANTE LA PANDEMIA DA COVID-19. Cosma C. , Buscemi P., Moscadelli A., Paoli S., Vettori V., Lastrucci V., Lorini C., Bonaccorsi G. [http://www.igienistionline.it/docs/2022/54atti.pdf](http://www.igienistionline.it/docs/2022/54atti.pdf)
-
-- Abstract 99 - LA DIGITAL HEALTH LITERACY DEGLI STUDENTI UNIVERSITARI E LA RICERCA DI INFORMAZIONI SULLA PANDEMIA COVID-19 Ciardi G. , Buscemi P. , Vettori V., Scarpelli R., Lastrucci V., Moscadelli A. , Paoli S. , Lorini C. , Bonaccorsi G. [http://www.igienistionline.it/docs/2022/54atti.pdf](http://www.igienistionline.it/docs/2022/54atti.pdf)
-
-- Abstract 129 - L’ATTIVITÀ DI UN HOSPITAL-AT-NURSING HOME MOBILE MEDICAL TEAM (GIROT) NELLE RSA FIORENTINE Vaccaro G. , Buscemi P., Cosma C. , Stacchini L., Rivasi G. , Bulgaresi M., Benvenuti E., Mossello E. , Lorini C. , Bonaccorsi G. [http://www.igienistionline.it/docs/2022/54atti.pdf](http://www.igienistionline.it/docs/2022/54atti.pdf)
-
-- Abstract 349 - L’IMPATTO DELLA PANDEMIA DA COVID-19 SULLE MODALITÀ DI ACCESSO ALLE CURE E SULLA PRESA IN CARICO DELLA POPOLAZIONE NON ISCRIVIBILE AL SISTEMA SANITARIO NAZIONALE. Milani C. , Casigliani V. , Turatto F. , Mazzalai E. , Scardina G. , Forghieri P. , Mazzilli S., Mammana L., Sgorbissa B. , Mazziotta F. , Traglia F., Zanutto G., Marconi D., Mondera F. , Ferrari C., Bellini A. , Zannoner A., Velpini B., Buscemi P. , Sessa G., De Marchi C. , Gatta A., Siena L. , Carlone L., Anastasia A. , Caminada S., Manai S., Pireddu R., Rosca V., Miceli R.S., Boscolo Cegion R., Prontu P. , Montesarchio L., Iamarino J.A. , Giacchetta I., Miraglia Del Giudice G. , Pasquetti E. , Alba D. , Massidda C., Battaglia C. [http://www.igienistionline.it/docs/2022/54atti.pdf](http://www.igienistionline.it/docs/2022/54atti.pdf)
-
+					  <div class="container">
+						  <br>
+<br>
 
 
 
 
+
+<div id="toptitle">
+	<h1>Pubblicazioni scientifiche</h1>
+</div>
+
+<div id="subtitle">
+	<h2>2022</h2>
+</div>
+              
+<a href="https://doi.org/10.3390/vaccines10091414">Delayed Start of Routine Vaccination in Preterm and Small-for-Gestational-Age Infants: An Area-Based Cohort Study from the Tuscany Region, Italy.</a>
+<i> Vaccines</i> 2022, 10, 1414.
+<br>
+ Lastrucci, V.; Puglia, M.; Pacifici, M.; Buscemi, P.; Sica, M.; Alderotti, G.; Belli, G.; Berti, E.; Rusconi, F.; Voller, F.
+<br>
+<br>
+<br>
+
+
+<a href="https://evidence.nejm.org/stoken/default+/JEUNBGEPS5SXRMWCYYTJ/full?redirectUri=/doi/full/10.1056/EVIDoa2200008">Molecular International Prognostic Scoring System for Myelodysplastic Syndromes.</a>
+<i> NEJM Evidence</i>, 1 (7), 2022.
+<br>
+<u>E. Bernard</u>, H. Tuechler, P. G. Greenberg, et al.
+<br>
+<a href="https://github.com/papaemmelab/ipssm"><small style="color:red">R Package.</small></a>
+<a href="https://mds-risk-model.com/"><small style="color:red">Web Calculator.</small></a>
+<a href="https://github.com/papaemmelab/IPSSMstudy"><small style="color:red">Reproduce.</small></a>
+<br>
+<br>
+<br>
+
+
+<a href="https://ashpublications.org/bloodadvances/article/doi/10.1182/bloodadvances.2021006325/483554/Patient-specific-MDS-RS-iPSCs-define-the-mis">Patient-specific MDS-RS iPSCs define the mis-spliced transcript repertoire and chromatin landscape of SF3B1-mutant HSPCs.</a>
+<i>Blood Advances</i>, 6 (10): 2992–3005, 2022.
+<br>
+G. Asimomitis, A. G. Deslauriers, A. G Kotini, <u>E. Bernard</u>, et al.
+<br>
+<br>
+<br>
+
+
+<a href="https://bloodcancerdiscov.aacrjournals.org/content/2/5/500">ZBTB33 is mutated in clonal hematopoiesis and myelodysplastic syndromes and impacts RNA Splicing.</a>
+<i> Blood Cancer Discovery</i>, 2(5), 500–517, 2021.
+<br>
+E.M. Beauchamp, M. Leventhal, <u>E. Bernard</u>, et al.
+<br>
+<br>
+<br>
+
+
+<a href="https://www.nature.com/articles/s41467-020-20565-7">Interplay between chromosomal alterations and gene mutations shapes the evolutionary trajectory of clonal hematopoiesis.</a>
+<i> Nature Communications</i>, 12, 338, 2021.
+<br>
+T. Gao, R. Ptashkin, K. L. Bolton, ... , <u>E. Bernard</u>, ... , S. M. Devlin, E. Papaemmanuil.
+<br>
+<br>
+<br>
+
+
+<a href="https://www.nature.com/articles/s41588-020-00710-0">Cancer therapy shapes the fitness landscape of clonal hematopoiesis.</a>
+<i> Nature Genetics</i>, 52, 1219–1226, 2020.
+<br>
+K. L. Bolton, R. N. Ptashkin, T. Gao, ... , <u>E. Bernard</u>, ... , A. Zehir, E. Papaemmanuil.
+<br>
+<br>
+<br>
+
+
+<a href="https://www.nature.com/articles/s41591-020-1008-z">Implications of TP53 Allelic State for Genome Stability, Clinical Presentation and Outcomes in Myelodysplastic Syndromes.</a>
+<i> Nature Medicine</i>, 26, 1549–1556, 2020.
+<br>
+<u>E. Bernard</u>, Y. Nannya, R. P. Hasserjian, et al.
+<br>
+<a href="https://www.biorxiv.org/content/10.1101/2019.12.19.868844v1"><small style="color:red">Preprint.</small></a>
+<a href="https://github.com/papaemmelab/MDS-TP53-state"><small style="color:red">Reproduce.</small></a>
+<br>
+<br>
+<br>
+
+
+<a href="https://onlinelibrary.wiley.com/doi/10.1002/ajh.25641">Stability and uniqueness of clonal immunoglobulin CDR3 sequences for MRD tracking in multiple myeloma.</a>
+<i> Am. J. Hematol.</i>, doi: 10.1002/ajh.25641, 2019.
+<br>
+E. H. Rustad, K.Misund, <u>E. Bernard</u>, et al.
+<br>
+<br>
+<br>
+
+
+<a href="https://doi.org/10.1080/10428194.2019.1627542">Multifaceted modes of action of azacytidine: a riddle wrapped up in an enigma.</a>
+<i>Leukemia & Lymphoma,</i> 12:1-5, 2019.
+<br>
+E. Lamprianidou, E. Zoulia, <u>E. Bernard</u>, C. Kordella, M. Papoutselis, Z. Bezirgiannidou, G. Vrachiolias, E. Papaemmanuil and I. Kotsianidis.
+<br>
+<br>
+<br>
+
+
+<a href="https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.2004045">A molecular atlas of the developing ectoderm defines neural, neural crest, placode and non-neural progenitor identity in vertebrates.</a>
+<i>PLoS Biology,</i> 15(10): e2004045, 2017.
+<br>
+J.-L. Plouhinec, S. Medina-Ruiz, C. Borday, <u>E. Bernard</u>, J.-P. Vert, M. B. Eisen, R. M. Harland and A. H. Monsoro-Burq.
+<br>
+<br>
+<br>
+
+
+<a href="http://onlinelibrary.wiley.com/doi/10.1002/minf.201700053/abstract">Kernel multitask regression for toxicogenetics.</a>
+<i>Molecular Informatics,</i> 36(10), 2017.
+<br>
+<u>E. Bernard</u>, Y. Jiao, E. Scornet, V. Stoven, T. Walter and J.-P. Vert. 
+<br>
+   <a href="http://www.biorxiv.org/content/early/2017/08/01/171298"><small style="color:red">Preprint.</small></a>
+   <a href="https://github.com/jpvert/kmr"><small style="color:red">R Package.</small></a>
+   <a href="https://github.com/jpvert/kmr4toxicogenetics"><small style="color:red">Reproduce.</small></a>
+<br>
+<br>
+<br>
+
+
+<a href="http://www.biomedcentral.com/1471-2105/16/262">A convex formulation for joint RNA isoform detection and quantification from multiple RNA-seq samples.</a>
+<i>BMC Bioinformatics,</i> i16:262, 2015.
+<br>
+<u>E. Bernard</u>, L. Jacob, J. Mairal, E. Viara and J.-P. Vert.
+<br>
+   <a href="https://hal-mines-paristech.archives-ouvertes.fr/hal-01123141"><small style="color:red">Preprint.</small></a>
+<br>
+<br>
+<br>
+
+
+<a href="http://bioinformatics.oxfordjournals.org/content/early/2014/06/26/bioinformatics.btu317">Efficient RNA isoform identification and quantification from RNA-seq data with network flows.</a>
+<i>Bioinformatics, </i>30(17):2447-2455, 2014.
+<br>
+<u>E. Bernard</u>, L. Jacob, J. Mairal and J.-P. Vert.
+<br>
+<a href="http://hal-ensmp.archives-ouvertes.fr/hal-00803134"><small style="color:red">Preprint.</small></a>
+<br>
+<br>
+<br>
+
+
+<a href="http://journals.ametsoc.org/doi/abs/10.1175/JCLI-D-12-00836.1">Clustering of maxima: spatial dependencies among heavy rainfall in france.</a>
+<i> Journal of Climate,</i> 26, 7929-7937, 2013.
+<br>
+<u>E. Bernard</u>, P. Naveau, M. Vrac and O. Mestre.
+<br>
+<br>
+<br>
+
+
+<a href="http://www.cims.nyu.edu/~shafer/papers/SmithBernard13.pdf">Geostrophic turbulence near rapid changes in stratification.</a>
+<i>Physics of Fluids,</i> 25, 046601, 2013.
+<br>
+K.S. Smith and <u>E. Bernard</u>.
+<br>
+<br>
+
+
+<h1>Thesis</h1>
+</div>
+
+E. Bernard. 
+<a href="https://hal.archives-ouvertes.fr/tel-01681314/">Deciphering splicing with sparse regression techniques in the era of high-throughput RNA sequencing.</a>
+<i>Phd thesis,</i> 2016.
+<br>
+<br>
+
+					  </div>
+
+				  </td>
+			  </tr>
+		  </table>
+	  </body>
+
+  </html>
