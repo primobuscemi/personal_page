@@ -12,12 +12,10 @@
   <meta name="twitter:image" content="https://primobuscemi.github.io/personal_page/hopper.jpg" />
     
 {% if page.description %}
-  <meta name="twitter:description"
-    content="La mia pagina personale">
+  <meta name="twitter:description" content="La mia pagina personale">
 {% else %}
   <meta name="twitter:description"
-    content="{{ page.content | strip_html | xml_escape
-      | truncate: 200 }}">
+    content="{{ page.content | strip_html | xml_escape | truncate: 200 }}">
 {% endif %}
 
 
