@@ -5,7 +5,7 @@ show_downloads: false
 github.is_project_page: false
 github.is_user_page: false
 twitter:
-  card: summary_large_image
+  card: summary
 site.description: "La mia pagina personale"
 site.logo: "https://primobuscemi.github.io/personal_page/hopper.jpg"
 site.title: "Pagina personale di Primo Buscemi"
